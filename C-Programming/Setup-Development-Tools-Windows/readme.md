@@ -36,4 +36,7 @@ git submodule update --init
 cd ..
  
 ## References 
-1. For more information about WSL, see here https://learn.microsoft.com/en-us/windows/wsl/install
+1. News about the release of the Raspberry Pi Pico W board: https://www.raspberrypi.com/news/raspberry-pi-pico-w-your-6-iot-platform/
+2. For more information about WSL, see here https://learn.microsoft.com/en-us/windows/wsl/install
+
+
