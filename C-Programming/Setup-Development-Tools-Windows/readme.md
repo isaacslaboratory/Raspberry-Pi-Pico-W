@@ -34,7 +34,7 @@ cd pico-sdk
 git submodule update --init
 ```
 
-#4 Testing 
+## 4. Testing the setup 
 
 
  
