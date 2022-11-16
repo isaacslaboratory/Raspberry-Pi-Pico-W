@@ -1,4 +1,4 @@
-# Raspberry Pi Pico W: Setup of C/C++ Development Tools on Windows 
+# Raspberry Pi Pico W: Easy Setup of C/C++ Development Tools on Windows 
 
 ## 1. Installing Windows Subsystem for Linux (WSL)
 
