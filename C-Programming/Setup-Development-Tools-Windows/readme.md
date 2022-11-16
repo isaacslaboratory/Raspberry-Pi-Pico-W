@@ -35,3 +35,5 @@ git submodule update --init
 ```
 cd ..
  
+# References 
+1. For more information about WSL, see here https://learn.microsoft.com/en-us/windows/wsl/install
