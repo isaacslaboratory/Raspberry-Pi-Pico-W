@@ -1,4 +1,4 @@
-# Raspburry Pi Pico W: Setup of C/C++ Development Tools on Windows 
+# Raspberry Pi Pico W: Setup of C/C++ Development Tools on Windows 
 
 ## 1. Installing Windows Subsystem for Linux (WSL)
 
@@ -9,10 +9,10 @@ wsl --install
 ```
 The installation of WSL continues after the system restart. Once done, set username and password.  
 
-start Windows Termimal 
+start Windows Terminal  
 
 
-## 2. Downloading and Installing all the developement tools 
+## 2. Downloading and Installing all the development tools 
 
 ```
 sudo apt update
@@ -33,10 +33,14 @@ cd pico-sdk
 
 git submodule update --init
 ```
-cd ..
+
+#4 Testing 
+
+
  
 ## References 
 1. News about the release of the Raspberry Pi Pico W board: https://www.raspberrypi.com/news/raspberry-pi-pico-w-your-6-iot-platform/
 2. For more information about WSL, see here https://learn.microsoft.com/en-us/windows/wsl/install
+
 
 
