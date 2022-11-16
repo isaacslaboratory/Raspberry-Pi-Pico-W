@@ -23,6 +23,12 @@ sudo apt install gcc-arm-none-eabi libnewlib-arm-none-eabi libstdc++-arm-none-ea
 ## 3. Downloading the Pico W SDK
 
 ```
+cd /mnt/c/
+
+mkdir home
+
+cd ./home
+
 mkdir pico
 
 cd /mnt/c/home/pico
