@@ -27,11 +27,11 @@ cd /mnt/c/
 
 mkdir home
 
-cd ./home
+cd home
 
 mkdir pico
 
-cd /mnt/c/home/pico
+cd pico
 
 git clone -b master https://github.com/raspberrypi/pico-sdk.git
 
